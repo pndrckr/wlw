@@ -1,0 +1,19 @@
+{
+  "name": "weight_loss_war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatima estrada",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pndrckr/wlw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pndrckr/wlw/issues"
+  },
+  "homepage": "https://github.com/pndrckr/wlw#readme"
+}
